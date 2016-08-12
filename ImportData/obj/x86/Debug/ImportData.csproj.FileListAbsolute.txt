@@ -1,0 +1,39 @@
+E:\工具\ImportData\ImportData\bin\Debug\ImportData.exe
+E:\工具\ImportData\ImportData\bin\Debug\ImportData.pdb
+E:\工具\ImportData\ImportData\bin\Debug\MySql.Data.dll
+E:\工具\ImportData\ImportData\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\工具\ImportData\ImportData\obj\x86\Debug\ImportData.exe
+E:\工具\ImportData\ImportData\obj\x86\Debug\ImportData.pdb
+E:\工具\ImportData\ImportData\bin\Debug\ImportData.exe.config
+C:\Users\zhoubb14118\Desktop\ImportData\ImportData\bin\Debug\ImportData.exe.config
+C:\Users\zhoubb14118\Desktop\ImportData\ImportData\bin\Debug\ImportData.exe
+C:\Users\zhoubb14118\Desktop\ImportData\ImportData\bin\Debug\ImportData.pdb
+C:\Users\zhoubb14118\Desktop\ImportData\ImportData\bin\Debug\MySql.Data.dll
+C:\Users\zhoubb14118\Desktop\ImportData\ImportData\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\zhoubb14118\Desktop\ImportData\ImportData\obj\x86\Debug\ImportData.exe
+C:\Users\zhoubb14118\Desktop\ImportData\ImportData\obj\x86\Debug\ImportData.pdb
+E:\工具\ImportData\ImportData\obj\x86\Debug\ImportData.csprojResolveAssemblyReference.cache
+C:\Users\caixz\Documents\Tencent Files\82148941\FileRecv\ImportData\ImportData\bin\Debug\ImportData.exe.config
+C:\Users\caixz\Documents\Tencent Files\82148941\FileRecv\ImportData\ImportData\obj\x86\Debug\ImportData.exe
+C:\Users\caixz\Documents\Tencent Files\82148941\FileRecv\ImportData\ImportData\obj\x86\Debug\ImportData.pdb
+C:\Users\caixz\Documents\Tencent Files\82148941\FileRecv\ImportData\ImportData\bin\Debug\ImportData.exe
+C:\Users\caixz\Documents\Tencent Files\82148941\FileRecv\ImportData\ImportData\bin\Debug\ImportData.pdb
+C:\Users\caixz\Documents\Tencent Files\82148941\FileRecv\ImportData\ImportData\bin\Debug\MySql.Data.dll
+C:\Users\caixz\Documents\Tencent Files\82148941\FileRecv\ImportData\ImportData\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\caixz\Documents\Tencent Files\82148941\FileRecv\ImportData\ImportData\obj\x86\Debug\ImportData.csprojResolveAssemblyReference.cache
+C:\Users\caixz\Desktop\ImportData\ImportData\bin\Debug\ImportData.exe.config
+C:\Users\caixz\Desktop\ImportData\ImportData\obj\x86\Debug\ImportData.exe
+C:\Users\caixz\Desktop\ImportData\ImportData\obj\x86\Debug\ImportData.pdb
+C:\Users\caixz\Desktop\ImportData\ImportData\bin\Debug\ImportData.exe
+C:\Users\caixz\Desktop\ImportData\ImportData\bin\Debug\ImportData.pdb
+C:\Users\caixz\Desktop\ImportData\ImportData\bin\Debug\MySql.Data.dll
+C:\Users\caixz\Desktop\ImportData\ImportData\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\caixz\Desktop\笔记文档\ImportData\ImportData\bin\Debug\ImportData.exe.config
+C:\Users\caixz\Desktop\笔记文档\ImportData\ImportData\obj\x86\Debug\ImportData.exe
+C:\Users\caixz\Desktop\笔记文档\ImportData\ImportData\obj\x86\Debug\ImportData.pdb
+C:\Users\caixz\Desktop\笔记文档\ImportData\ImportData\bin\Debug\ImportData.exe
+C:\Users\caixz\Desktop\笔记文档\ImportData\ImportData\bin\Debug\ImportData.pdb
+C:\Users\caixz\Desktop\笔记文档\ImportData\ImportData\bin\Debug\MySql.Data.dll
+C:\Users\caixz\Desktop\笔记文档\ImportData\ImportData\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\caixz\Desktop\笔记文档\ImportData\ImportData\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\caixz\Desktop\笔记文档\ImportData\ImportData\obj\x86\Debug\ImportData.csprojResolveAssemblyReference.cache
